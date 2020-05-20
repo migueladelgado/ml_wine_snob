@@ -1,0 +1,1 @@
+This repo is a sandbox for playing around with a wine dataset to determine the quality of wine based on some attributes. The purpose is to find the best model that fits to predict quality as accurately as possible. 
